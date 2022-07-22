@@ -6,8 +6,6 @@ namespace Degiskenler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
-
             String degisken = " ";
 
             byte b = 5; // byte 0 ile 255 arasında değer alabilir - Bellekte 1 byte yer kaplar.
@@ -36,9 +34,17 @@ namespace Degiskenler
             bool bl = true;
             bool bl2 = false;
 
-            DateTime dt = DateTime.Now;
+            DateTime dt = DateTime.Now; // Bu haliyle anlık tarih ve saat bilgisi veriyor.
             
             Console.WriteLine(dt);
+            Console.ReadLine();
+
+            object o1 = "x";
+            object o2 = 'y';
+            object o3 = 4;
+            object o4 = 4.3; //object her türlü veriyi tutabilir. 
+
+            
         }
     }
 }
