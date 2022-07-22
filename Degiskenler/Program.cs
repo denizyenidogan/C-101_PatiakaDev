@@ -11,7 +11,7 @@ namespace Degiskenler
             String degisken = " ";
 
             byte b = 5; // byte 0 ile 255 arasında değer alabilir - Bellekte 1 byte yer kaplar.
-            sbyte c = 5; // sbyte -128 ile 127 arasında değer alabilir - Bellekte 1 byte yer kaplar.
+            sbyte csb = 5; // sbyte -128 ile 127 arasında değer alabilir - Bellekte 1 byte yer kaplar.
 
             short s = 5; // short -32768 ile 32768 arasında değer alabilir - Bellekte 2 byte yer kaplar.
             ushort us =5; // ushort 0 ile 65356 arasında değer alabilir - Bellekte 2 byte yer kaplar.
@@ -30,7 +30,7 @@ namespace Degiskenler
             double d = 5; // Bellekte 8 byte yer kaplar.
             decimal de = 5; // Bellekte 16 byte yer kaplar.
 
-            char c = ''
+            char c = 'a';
 
         }
     }
