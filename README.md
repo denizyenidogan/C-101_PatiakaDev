@@ -1,1 +1,1 @@
-## C-101_PatiakaDev
+## Patika Dev C# sharp dersleri kapsamında yaptığım denemeler, ödevler ve projeleri içerir.
