@@ -11,8 +11,6 @@ namespace Tip_donusumleri
             // Explicit Conversion (Bilinçli Dönüşüm)
 
             //......
-
-            //......
         }
     }
 }
