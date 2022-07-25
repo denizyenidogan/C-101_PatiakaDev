@@ -44,6 +44,7 @@ namespace Degiskenler
             object o3 = 4;
             object o4 = 4.3; //object her türlü veriyi tutabilir. 
 
+            //String ifadeler
             
         }
     }
