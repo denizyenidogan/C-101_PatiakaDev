@@ -34,7 +34,7 @@ namespace Degiskenler
             bool bl = true;
             bool bl2 = false;
 
-            DateTime dt = DateTime.Now; // Bu haliyle anlık tarih ve saat bilgisi veriyor.
+            DateTime dt = DateTime.Now; // Bu haliyle anlık tarih ve saat bilgisi vermektedir.
             
             Console.WriteLine(dt);
 
