@@ -6,7 +6,9 @@ namespace Tip_donusumleri
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Implicit Conversion (Bilinçsiz Dönüşüm)
+
+            // Explicit Conversion (Bilinçli Dönüşüm)
         }
     }
 }
