@@ -1,0 +1,16 @@
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\bin\Debug\net5.0\Operatorlar.exe
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\bin\Debug\net5.0\Operatorlar.deps.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\bin\Debug\net5.0\Operatorlar.runtimeconfig.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\bin\Debug\net5.0\Operatorlar.runtimeconfig.dev.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\bin\Debug\net5.0\Operatorlar.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\bin\Debug\net5.0\Operatorlar.pdb
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\Operatorlar.csproj.AssemblyReference.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\Operatorlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\Operatorlar.AssemblyInfoInputs.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\Operatorlar.AssemblyInfo.cs
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\Operatorlar.csproj.CoreCompileInputs.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\Operatorlar.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\refint\Operatorlar.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\Operatorlar.pdb
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\Operatorlar.genruntimeconfig.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Operatorlar\obj\Debug\net5.0\ref\Operatorlar.dll
