@@ -37,7 +37,6 @@ namespace Degiskenler
             DateTime dt = DateTime.Now; // Bu haliyle anlık tarih ve saat bilgisi veriyor.
             
             Console.WriteLine(dt);
-            Console.ReadLine();
 
             object o1 = "x";
             object o2 = 'y';
@@ -45,7 +44,41 @@ namespace Degiskenler
             object o4 = 4.3; //object her türlü veriyi tutabilir. 
 
             //String ifadeler
-            
+
+            string str1 = ""; // string.Empty ile  aynı il yapılabilir.
+            str1 = "Deniz Yenidoğan";
+            String name = "Deniz";
+            String surname = "Yenidoğan";
+            String fullname = name + " " + surname;
+
+            //integer tanımlama şekilleri
+
+            int integer1 = 5;
+            int integer2 = 3;
+            int integer3 = integer1 * integer2;
+
+            //boolean
+
+            bool bnum = 10<2; // false atama yapacaktır.
+
+            // Değişken Dönüşümleri;
+
+            string str20 = "20";
+            int int20 = 20;
+            string newValue = str20 + int20.ToString();
+            Console.WriteLine(newValue);
+
+            int int21 = int20 + Convert.ToInt32(str20);
+            Console.WriteLine(int21);
+
+            int int22 = int20 + int.Parse(str20);
+            Console.WriteLine(int22);
+
+            //dateTime
+
+            string datetime = DateTime.Now.ToString("dd.MM.yyyy"); // "dd.MM.yyyy" bu ksımı değiştirilerek istenen formatta alınabilir.
+            Console.WriteLine(datetime);
+
         }
     }
 }
