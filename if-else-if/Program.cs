@@ -6,7 +6,7 @@ namespace if_else_if
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
