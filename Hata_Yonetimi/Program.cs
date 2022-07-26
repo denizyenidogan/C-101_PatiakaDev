@@ -6,7 +6,11 @@ namespace Hata_Yonetimi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Bir sayı giriniz:");
+            int sayi = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Girmiş olduğunuz sayı :" + sayi);
+
+            
         }
     }
 }
