@@ -1,0 +1,16 @@
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\bin\Debug\net5.0\Donguler-while-foreach.exe
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\bin\Debug\net5.0\Donguler-while-foreach.deps.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\bin\Debug\net5.0\Donguler-while-foreach.runtimeconfig.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\bin\Debug\net5.0\Donguler-while-foreach.runtimeconfig.dev.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\bin\Debug\net5.0\Donguler-while-foreach.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\bin\Debug\net5.0\Donguler-while-foreach.pdb
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\Donguler-while-foreach.csproj.AssemblyReference.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\Donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\Donguler-while-foreach.AssemblyInfoInputs.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\Donguler-while-foreach.AssemblyInfo.cs
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\Donguler-while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\Donguler-while-foreach.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\refint\Donguler-while-foreach.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\Donguler-while-foreach.pdb
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\Donguler-while-foreach.genruntimeconfig.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Donguler-while-foreach\obj\Debug\net5.0\ref\Donguler-while-foreach.dll
