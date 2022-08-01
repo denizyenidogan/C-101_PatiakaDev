@@ -1,0 +1,16 @@
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\bin\Debug\net5.0\Array-Sinifi-Metodları.exe
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\bin\Debug\net5.0\Array-Sinifi-Metodları.deps.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\bin\Debug\net5.0\Array-Sinifi-Metodları.runtimeconfig.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\bin\Debug\net5.0\Array-Sinifi-Metodları.runtimeconfig.dev.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\bin\Debug\net5.0\Array-Sinifi-Metodları.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\bin\Debug\net5.0\Array-Sinifi-Metodları.pdb
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\Array-Sinifi-Metodları.csproj.AssemblyReference.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\Array-Sinifi-Metodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\Array-Sinifi-Metodları.AssemblyInfoInputs.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\Array-Sinifi-Metodları.AssemblyInfo.cs
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\Array-Sinifi-Metodları.csproj.CoreCompileInputs.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\Array-Sinifi-Metodları.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\refint\Array-Sinifi-Metodları.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\Array-Sinifi-Metodları.pdb
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\Array-Sinifi-Metodları.genruntimeconfig.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Array-Sinifi-Metodları\obj\Debug\net5.0\ref\Array-Sinifi-Metodları.dll
