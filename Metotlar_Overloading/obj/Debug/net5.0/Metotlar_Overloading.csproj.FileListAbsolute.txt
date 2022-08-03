@@ -1,0 +1,16 @@
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\bin\Debug\net5.0\Metotlar_Overloading.exe
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\bin\Debug\net5.0\Metotlar_Overloading.deps.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\bin\Debug\net5.0\Metotlar_Overloading.runtimeconfig.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\bin\Debug\net5.0\Metotlar_Overloading.runtimeconfig.dev.json
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\bin\Debug\net5.0\Metotlar_Overloading.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\bin\Debug\net5.0\Metotlar_Overloading.pdb
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\Metotlar_Overloading.csproj.AssemblyReference.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\Metotlar_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\Metotlar_Overloading.AssemblyInfoInputs.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\Metotlar_Overloading.AssemblyInfo.cs
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\Metotlar_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\Metotlar_Overloading.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\refint\Metotlar_Overloading.dll
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\Metotlar_Overloading.pdb
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\Metotlar_Overloading.genruntimeconfig.cache
+C:\Users\deniz.yenidogan\Desktop\CSharp101_PatikaDev\Metotlar_Overloading\obj\Debug\net5.0\ref\Metotlar_Overloading.dll
